@@ -13,17 +13,17 @@ import type {
 // ============================================================
 
 export const siteConfig = {
-  name: "Roy Benjamin Cataquiz",
-  initials: "Rbgc",
+  name: "Roy Benjamin G. Cataquiz",
+  initials: "Roy",
   title: "Data Engineer",
-  tagline: "Building scalable data systems and operational platforms",
+  tagline: "Building scalable data solutions — and preventing spreadsheets from becoming databases.",
   description:
-    "I architect and build production-grade data pipelines, analytics platforms, and cloud-native data infrastructure that power business decisions at scale.",
+    "Data Engineer specializing in Azure data platforms, analytics, and scalable data operations. Passionate about transforming messy workflows into reliable data systems using ADF, Databricks, SQL, Python, and Power BI — while keeping both pipelines and stakeholders from breaking.",
   email: "roybenjamincataquiz@gmail.com",
-  location: "Manila, Philippines",
+  location: "Quezon City, Philippines",
   availableForWork: true,
   resumeUrl: "/resume.pdf",
-  siteUrl: "https://www.linkedin.com/in/roybenjamincataquiz",
+  siteUrl: "https://roycataquiz.github.io/portfolio",
   ogImage: "/og-image.png",
 };
 
@@ -38,18 +38,13 @@ export const navItems: NavItem[] = [
 export const socialLinks: SocialLink[] = [
   {
     platform: "GitHub",
-    url: "https://github.com/alexrivera",
+    url: "https://github.com/roycataquiz",
     label: "View GitHub profile",
   },
   {
     platform: "LinkedIn",
     url: "https://www.linkedin.com/in/roybenjamincataquiz",
     label: "Connect on LinkedIn",
-  },
-  {
-    platform: "Twitter",
-    url: "https://twitter.com/alexrivera",
-    label: "Follow on Twitter",
   },
 ];
 
